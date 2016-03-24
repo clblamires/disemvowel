@@ -24,7 +24,7 @@
   	"plugin",
   	"jquery-plugin",
   	"remove"
-  ]
+  ],
   "bugs": {
     "url": "https://github.com/clblamires/disemvowel/issues"
   },
