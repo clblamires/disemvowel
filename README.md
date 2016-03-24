@@ -3,7 +3,7 @@
 Disemvowel.js is a jQuery plugin to remove vowels from text, specifically a, e, i, o, u, and their capital letter variants. But not y. Why would you want to do this? I don't know, maybe to impress your friends. Or to really confuse people.
 
 See a demo here: 
-[See a demonstration here](http://citpt.lcsc.edu/caseyblamires/disemvowel/demo/demo.html)
+[See a demonstration here](http://clblamires.github.io/disemvowel/demo/demo.html)
 
 ## Why did I make this?
 
