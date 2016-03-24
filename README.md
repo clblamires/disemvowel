@@ -7,7 +7,7 @@ See a demo here:
 
 ## Why did I make this?
 
-[Jeff Bezos wants to remove vowels from Washington Post stories?](http://www.poynter.org/2016/jeff-bezos-suggested-removing-all-the-vowels-from-washington-post-stories/403264/). I'm not sure how accurate this article is, but it made me laugh. So I decided to create this plugin for fun. Turned out easier than I expected.
+[Jeff Bezos wants to remove vowels from Washington Post stories?](http://www.poynter.org/2016/jeff-bezos-suggested-removing-all-the-vowels-from-washington-post-stories/403264/) I'm not sure how accurate this article is, but it made me laugh. So I decided to create this plugin for fun. Turned out easier than I expected.
 
 ## Download
 
