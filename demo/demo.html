@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Disemvowel Demonstration</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="../src/disemvowel.min.js"></script>
+
+</head>
+<body>
+
+	<h1>Original Text</h1>
+	<p id="original">
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore voluptatibus perspiciatis sint autem, reiciendis? Accusamus rem qui eveniet ipsum esse dolorem dolorum sequi placeat, eos ab, unde vitae reiciendis eligendi.
+	</p>
+
+
+	<h1>Disemvoweled</h1>
+	<p id="disemvoweled">
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore voluptatibus perspiciatis sint autem, reiciendis? Accusamus rem qui eveniet ipsum esse dolorem dolorum sequi placeat, eos ab, unde vitae reiciendis eligendi.
+	</p>
+
+	<h1>Disemvoweled with Character Replacement</h1>
+	<p id="disemvoweled-replacement">
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore voluptatibus perspiciatis sint autem, reiciendis? Accusamus rem qui eveniet ipsum esse dolorem dolorum sequi placeat, eos ab, unde vitae reiciendis eligendi.
+	</p>
+
+		
+
+	<script>
+		jQuery( function(){
+			$('#disemvoweled').disemvowel();
+			$('#disemvoweled-replacement').disemvowel({
+				replacement: '*'
+			})
+		});
+	</script>
+</body>
+</html>
