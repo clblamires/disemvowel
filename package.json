@@ -2,7 +2,7 @@
   "name": "disemvowel",
   "version": "1.0.0",
   "description": "A jQuery plugin to remove vowels from text",
-  "main": "removeVowels.jquery.js",
+  "main": "src/disemvowel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +12,21 @@
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clblamires/disemvowel.git"
+  },
+  "keywords": [
+  	"disemvowel",
+  	"vowel",
+  	"jquery",
+  	"plugin",
+  	"jquery-plugin",
+  	"remove"
+  ]
+  "bugs": {
+    "url": "https://github.com/clblamires/disemvowel/issues"
+  },
+  "homepage": "https://github.com/clblamires/disemvowel#readme"
 }
